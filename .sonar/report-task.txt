@@ -1,0 +1,6 @@
+projectKey=hygieia-maven-project-demo
+serverUrl=http://47.93.114.82:9000
+serverVersion=6.4.0.25310
+dashboardUrl=http://47.93.114.82:9000/dashboard/index/hygieia-maven-project-demo
+ceTaskId=AWtuoO8fcsOPNLj1B-uo
+ceTaskUrl=http://47.93.114.82:9000/api/ce/task?id=AWtuoO8fcsOPNLj1B-uo
