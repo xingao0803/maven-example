@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="1" failures="0" name="artifactory.test.AppTest" time="0" errors="0" skipped="0">
+<testsuite tests="1" failures="0" name="artifactory.test.AppTest" time="0.001" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="/usr/local/jdk1.8.0_131/jre/lib/i386"/>
@@ -25,7 +25,7 @@
 "/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="os.name" value="Linux"/>
-    <property name="classworlds.conf" value="/root/.jenkins/workspace/hygieia-demo-jobs/hygieia-maven-project@tmp/artifactory/classworlds6591488463433024536conf"/>
+    <property name="classworlds.conf" value="/root/.jenkins/workspace/hygieia-demo-jobs/hygieia-maven-project@tmp/artifactory/classworlds4967416689708082356conf"/>
     <property name="sun.jnu.encoding" value="ANSI_X3.4-1968"/>
     <property name="java.library.path" value="/usr/java/packages/lib/i386:/lib:/usr/lib"/>
     <property name="maven.conf" value="/root/apache-maven-3.3.9/conf"/>
@@ -39,7 +39,7 @@
     <property name="java.specification.version" value="1.8"/>
     <property name="file.encoding" value="ANSI_X3.4-1968"/>
     <property name="buildInfoConfig.artifactoryResolutionEnabled" value="true"/>
-    <property name="buildInfoConfig.propertiesFile" value="/root/.jenkins/workspace/hygieia-demo-jobs/hygieia-maven-project@tmp/artifactory/buildInfo3394813025012749966.properties"/>
+    <property name="buildInfoConfig.propertiesFile" value="/root/.jenkins/workspace/hygieia-demo-jobs/hygieia-maven-project@tmp/artifactory/buildInfo7682543817337963445.properties"/>
     <property name="user.name" value="root"/>
     <property name="java.class.path" value="/root/apache-maven-3.3.9/boot/plexus-classworlds-2.5.2.jar"/>
     <property name="java.vm.specification.version" value="1.8"/>
@@ -63,5 +63,5 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase classname="artifactory.test.AppTest" name="testApp" time="0"/>
+  <testcase classname="artifactory.test.AppTest" name="testApp" time="0.001"/>
 </testsuite>
